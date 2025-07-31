@@ -6,7 +6,7 @@
 
 Motivated and self-drive developer with a strong foundation in research programming, software development, bioinformatics, machine learning, and data analysis. I love exploring new technologies and constantly improving my coding skills. Here's a bit more about me:
 
-- 🔭 I’m currently working on [A Hybrid Model for Skin Cancer Analyzation]
+- 🔭 I’m taking courses on other computer languages and will soon develop TypeScript-related projects to be showcased soon!
 - 📫 How to reach me: klmagpan@ucsc.edu
 - ⚡ Fun fact: [’m a passionate cook who loves experimenting with new recipes and perfecting flavors every day!]
 
@@ -19,6 +19,7 @@ Motivated and self-drive developer with a strong foundation in research programm
 ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=276DC3)  
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
+![TypeScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)  
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)  
 ![Bash/Shell](https://img.shields.io/badge/-Bash%2FShell-000?&logo=GNU-Bash&logoColor=4EAA25)  
