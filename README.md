@@ -22,7 +22,7 @@ Motivated and self-drive developer with a strong foundation in research programm
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)  
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)  
 ![Bash/Shell](https://img.shields.io/badge/-Bash%2FShell-000?&logo=GNU-Bash&logoColor=4EAA25)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://shields.io/badge/typescript-black?logo=typescript&style=style=fla)
 
 ---
 
