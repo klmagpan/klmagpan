@@ -4,7 +4,7 @@
 
 ## About Me
 
-Motivated and self-drive developer with a strong foundation in research programming, software development, bioinformatics, machine learning, and data analysis. I love exploring new technologies and constantly improving my coding skills. Here's a bit more about me:
+Motivated and self-driven developer with a strong foundation in research programming, software development, bioinformatics, machine learning, and data analysis. I love exploring new technologies and constantly improving my coding skills. Here's a bit more about me:
 
 - 🔭 I’m taking courses on other computer languages and will soon develop TypeScript-related projects to be showcased soon!
 - 📫 How to reach me: klmagpan@ucsc.edu
