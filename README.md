@@ -19,10 +19,10 @@ Motivated and self-drive developer with a strong foundation in research programm
 ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=276DC3)  
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
-![TypeScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)  
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)  
 ![Bash/Shell](https://img.shields.io/badge/-Bash%2FShell-000?&logo=GNU-Bash&logoColor=4EAA25)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -40,6 +40,13 @@ Motivated and self-drive developer with a strong foundation in research programm
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)   
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)  
+
+### **Learning in Progress** 
+Amazon S3
+Lambda
+DynamoDB
+React Native
+TypeScript
 
 ## Connect with Me
 
