@@ -42,11 +42,7 @@ Motivated and self-drive developer with a strong foundation in research programm
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)  
 
 ### **Learning in Progress** 
-![Amazon S3]
-Lambda
-DynamoDB
-React Native
-TypeScript
+Amazon S3, Lambda, DynamoDB, React Native, TypeScript
 
 ## Connect with Me
 
