@@ -1,7 +1,5 @@
 # Hi there, I'm klmagpan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=klmagpan&color=blue)
-
 ## About Me
 
 Motivated and self-driven developer with a strong foundation in research programming, software development, bioinformatics, machine learning, and data analysis. I love exploring new technologies and constantly improving my coding skills. Here's a bit more about me:
